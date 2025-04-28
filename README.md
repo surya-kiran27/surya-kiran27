@@ -1,5 +1,6 @@
 
-Hi there! I'm Surya Kiran, a Full Stack Developer from Hyderabad, India, specializing in building web applications from front-end to back-end. I am passionate about creating robust, scalable, and high-quality applications that meet the needs of my clients.
+Hi there! I'm Surya Kiran, a Full Stack Developer from Hyderabad, India, specializing in building web applications from front-end to back-end. I am passionate about creating robust, scalable, and high-quality applications.
+
 Skills
 
     Front-end: HTML, CSS, JavaScript, React.js
