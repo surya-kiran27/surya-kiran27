@@ -1,16 +1,34 @@
+# Hi there, I'm Surya Kiran 👋
 
-Hi there! I'm Surya Kiran, a Full Stack Developer from Hyderabad, India, specializing in building web applications from front-end to back-end. I am passionate about creating robust, scalable, and high-quality applications.
+I'm a **Full Stack Developer** based in **Hyderabad, India**, passionate about building **robust**, **scalable**, and **high-quality** web applications.
 
-Skills
+---
 
-    Front-end: HTML, CSS, React.js
-    Back-end: Node.js, Express.js, Gin
-    Languages: Javascript, GO, Python
-    Databases: MySQL, MongoDB, PostgreSQL
-    Cloud: AWS
+## 🚀 Skills
 
-Get in Touch
+**Front-end:**
+- HTML, CSS, React.js
 
-    📧 Email: suryaraju67@gmail.com
-    🌐 Portfolio: https://www.upwork.com/freelancers/~01941f9d9193ed127f/
-    🔗 LinkedIn: https://www.linkedin.com/in/surya-kiran-penumatcha-472274141/
+**Back-end:**
+- Node.js, Express.js, Gin (Go)
+
+**Programming Languages:**
+- JavaScript, Go, Python
+
+**Databases:**
+- MySQL, MongoDB, PostgreSQL
+
+**Cloud & DevOps:**
+- AWS
+
+---
+
+## 📫 Get in Touch
+
+- 📧 **Email:** [suryaraju67@gmail.com](mailto:suryaraju67@gmail.com)
+- 🌐 **Portfolio:** [Upwork Profile](https://www.upwork.com/freelancers/~01941f9d9193ed127f/)
+- 🔗 **LinkedIn:** [Surya Kiran Penumatcha](https://www.linkedin.com/in/surya-kiran-penumatcha-472274141/)
+
+---
+
+Thanks for stopping by! Feel free to reach out if you’d like to collaborate or just say hi!
