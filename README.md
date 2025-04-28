@@ -3,9 +3,11 @@ Hi there! I'm Surya Kiran, a Full Stack Developer from Hyderabad, India, special
 
 Skills
 
-    Front-end: HTML, CSS, JavaScript, React.js
-    Back-end: Node.js, GO
+    Front-end: HTML, CSS, React.js
+    Back-end: Node.js, Express.js, Gin
+    Languages: Javascript, GO, Python
     Databases: MySQL, MongoDB, PostgreSQL
+    Cloud: AWS
 
 Get in Touch
 
